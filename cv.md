@@ -17,7 +17,11 @@
 
 ## Personal information
 
-*
+* Saratov city
+* 20 years
+* I study at SSTU
+* I want to accumulate practical knowledge and collect a portfolio for further employment
+* I have never worked in IT, but after group work on courses, a wild desire for work and development appeared in a team of like-minded people
 
 ***
 
@@ -79,8 +83,11 @@ export default App;
 
 ## Education
 
+* Incomplete higher education. Young information defender (direction of information security)
+* Innopolis University. Frontend development using React, Redux, i18next, jest.
+
 ***
 
 ## English language
 
-***
+* I am actively studying the language. Able to understand the written text, and respond primitively to it. The test showed that my level of proficiency is A1.
