@@ -84,7 +84,7 @@ export default App;
 ## Education
 
 * Incomplete higher education. Young information defender (direction of information security)
-* Innopolis University. Frontend development using React, Redux, i18next, jest.
+* Innopolis University. Frontend development using React, Redux, i18next, jest
 
 ***
 
