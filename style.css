@@ -1,0 +1,82 @@
+* {
+    position: relative;
+    box-sizing: border-box;
+}
+
+body {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    background: linear-gradient(90deg, rgba(23, 63, 95, 1) 0%, rgba(60, 174, 163, 1) 45%, rgba(237, 85, 59, 1) 100%);
+    color: white;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    border: 2px solid rgba(23, 63, 95, 0.6);
+}
+
+main > article {
+    max-width: 100%;
+    padding: 16px;
+}
+
+#avatar {
+    position: absolute;
+    left: 60%;
+    top: -5%;
+    width: 200px;
+    height: 250px;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 100%;
+}
+
+code {
+    display: flex;
+    justify-content: flex-start;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 50%;
+    border: 2px solid rgba(23, 63, 95, 0.6);
+    border-top: none;
+    margin-top: 0;
+    padding: 16px;
+}
+
+#rs-school {
+    height: 40%;
+    width: 40%;
+}
+
+#git {
+    height: 64px;
+    width: 64px;
+    margin-left: auto;
+}
+
+#fSpan {
+    margin-left: auto;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: bolder;
+}
